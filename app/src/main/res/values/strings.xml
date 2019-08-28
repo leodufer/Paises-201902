@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="pais_message">Escriba el nombre del pais</string>
+    <string name="pais_code">Escriba el Codigo</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="error_name">El campo nombre no puede ser vacio</string>
+    <string name="error_code">El campo codigo debe contener 3 caracteres</string>
+    <string name="error_unique">Error al guardar, los campos no pueden contener valores repetidos</string>
+</resources>
